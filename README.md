@@ -9,13 +9,12 @@
 <a href="#credits--thank-yous"><img src="images/button-credits.svg" width="180" alt="Credits" /></a>
 </p>
 
-<table>
-<tr>
-<td width="45%" align="center">
+<p align="center">
 <img src="images/willow-cutout.png" width="360" alt="Three Sky children beneath golden willow branches, surrounded by red candles, with a glowing paper boat on the stream." />
-</td>
-<td width="55%">
-<h2>Welcome to our little clearing</h2>
+</p>
+
+<div align="center">
+<h3 align="center">Welcome to our little clearing</h3>
 <p>I put this launcher together to make joining our world feel a little more special. A quiet night, a few candles, and a place for us to play together.</p>
 <p>White hair in the wind, a boat on the stream, and the forest keeping us company. These are the little details I wanted to bring with us, even before the game begins.</p>
 <p>I hope you feel at home here.</p>
@@ -23,9 +22,7 @@
 <br />
 <p><b>Windows · Local accounts · LAN &amp; Tailscale</b></p>
 <p><a href="https://github.com/beacafe/sky-cozy-launcher/releases"><img src="images/button-download.svg" width="220" alt="Download Sky Cozy Launcher" /></a></p>
-</td>
-</tr>
-</table>
+</div>
 
 <p align="center"><img src="images/divider.svg" width="960" alt="" /></p>
 
