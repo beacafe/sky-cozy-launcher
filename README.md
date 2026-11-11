@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/launcher-header-transparent.svg" width="960" alt="Sky Cozy Launcher — A little corner of Sky, made cozy." />
+  <img src="images/launcher-header-open.svg" width="960" alt="Sky Cozy Launcher — A little corner of Sky, made cozy." />
 </p>
 
 <p align="center">
