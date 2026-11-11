@@ -41,6 +41,8 @@
 3. **Connect** by entering the server address.
 4. **Choose your character** or create an account with a username, then enter the game.
 
+The launcher opens in English by default. Choose **Settings → Language → Português** to switch to Portuguese; your preference is remembered.
+
 The little gear opens settings for button sounds and forest ambience. You can switch between saved accounts before playing.
 
 <details>
