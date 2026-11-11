@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-<img src="images/willow-animated.gif" width="360" alt="Three Sky children beneath golden willow branches, surrounded by red candles, with a glowing paper boat on the stream." />
+<img src="images/willow-tree-static.png" width="360" alt="Three Sky children beneath golden willow branches, surrounded by red candles, with a glowing paper boat on the stream." />
 </p>
 
 <div align="center">
