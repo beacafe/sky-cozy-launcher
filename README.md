@@ -3,16 +3,16 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/beacafe/sky-cozy-launcher/releases"><b>Download for Windows</b></a> &nbsp; · &nbsp;
-  <a href="#your-first-visit">Getting started</a> &nbsp; · &nbsp;
-  <a href="#little-details">Features</a> &nbsp; · &nbsp;
-  <a href="#credits--thank-yous">Credits</a>
+<a href="https://github.com/beacafe/sky-cozy-launcher/releases"><img src="images/button-download.svg" width="180" alt="Download" /></a>
+<a href="#your-first-visit"><img src="images/button-start.svg" width="180" alt="Getting started" /></a>
+<a href="#little-details"><img src="images/button-features.svg" width="180" alt="Features" /></a>
+<a href="#credits--thank-yous"><img src="images/button-credits.svg" width="180" alt="Credits" /></a>
 </p>
 
 <table>
 <tr>
 <td width="45%" align="center">
-<img src="images/willow-night.png" width="360" alt="Three Sky children beneath golden willow branches, surrounded by red candles, with a glowing paper boat on the stream." />
+<img src="images/willow-cutout.png" width="360" alt="Three Sky children beneath golden willow branches, surrounded by red candles, with a glowing paper boat on the stream." />
 </td>
 <td width="55%">
 <h2>Welcome to our little clearing</h2>
@@ -22,7 +22,7 @@
 <p><em>— Bea</em></p>
 <br />
 <p><b>Windows · Local accounts · LAN &amp; Tailscale</b></p>
-<p><a href="https://github.com/beacafe/sky-cozy-launcher/releases"><b>✦ Get Sky Cozy Launcher →</b></a></p>
+<p><a href="https://github.com/beacafe/sky-cozy-launcher/releases"><img src="images/button-download.svg" width="220" alt="Download Sky Cozy Launcher" /></a></p>
 </td>
 </tr>
 </table>
