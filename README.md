@@ -1,30 +1,67 @@
-# Sky Cozy Launcher
+<p align="center">
+  <img src="images/launcher-header.svg" width="960" alt="Sky Cozy Launcher — A little corner of Sky, made cozy." />
+</p>
 
-A little corner of Sky, made cozy.
+<p align="center">
+  <a href="https://github.com/beacafe/sky-cozy-launcher/releases"><b>Download for Windows</b></a> &nbsp; · &nbsp;
+  <a href="#your-first-visit">Getting started</a> &nbsp; · &nbsp;
+  <a href="#little-details">Features</a> &nbsp; · &nbsp;
+  <a href="#credits--thank-yous">Credits</a>
+</p>
 
-I put this launcher together to make it easier to jump into our world, with animated artwork, warm candlelight, and the sounds of a forest at night. I hope you enjoy it!
+<table>
+<tr>
+<td width="45%" align="center">
+<img src="images/willow-night.png" width="360" alt="Three Sky children beneath golden willow branches, surrounded by red candles, with a glowing paper boat on the stream." />
+</td>
+<td width="55%">
+<h2>Welcome to our little clearing</h2>
+<p>I put this launcher together to make joining our world feel a little more special. A quiet night, a few candles, and a place for us to play together.</p>
+<p>White hair in the wind, a boat on the stream, and the forest keeping us company. These are the little details I wanted to bring with us, even before the game begins.</p>
+<p>I hope you feel at home here.</p>
+<p><em>— Bea</em></p>
+<br />
+<p><b>Windows · Local accounts · LAN &amp; Tailscale</b></p>
+<p><a href="https://github.com/beacafe/sky-cozy-launcher/releases"><b>✦ Get Sky Cozy Launcher →</b></a></p>
+</td>
+</tr>
+</table>
 
-— Bea
+<p align="center"><img src="images/divider.svg" width="960" alt="" /></p>
 
-## Download
+## Little details
 
-[Download Sky Cozy Launcher for Windows](https://github.com/beacafe/sky-cozy-launcher/releases)
+| Under the willow | Ready for an adventure |
+| :--- | :--- |
+| **A living illustration** — wind in the leaves, flickering candles, and water around a little paper boat. | **One-step preparation** — create a separate game copy with the required patch. |
+| **A forest at night** — wind, chimes, crickets, an occasional owl, and a quiet stream. | **Your own characters** — pick a username, keep multiple accounts, and choose who to play before entering. |
+| **Warm little touches** — wooden button sounds, soft motion, and golden details. | **Near or far** — connect over LAN or Tailscale using your server address. |
 
-Open the latest release and download **Sky-Cozy-Launcher.exe**.
+## Your first visit
 
-## Getting started
+1. **Download** `Sky-Cozy-Launcher.exe` from the [releases page](https://github.com/beacafe/sky-cozy-launcher/releases).
+2. **Prepare** your game using the launcher's preparation button. Steam and Sky: Children of the Light need to be installed first.
+3. **Connect** by entering the server address.
+4. **Choose your character** or create an account with a username, then enter the game.
 
-1. Install Steam and Sky: Children of the Light.
-2. Open the launcher and use the game preparation button. It creates a separate game copy and installs the required patch.
-3. Enter the server address, then choose an account or create a new one.
-4. Pick a username and enjoy the game!
+The little gear opens settings for button sounds and forest ambience. You can switch between saved accounts before playing.
 
-You can keep multiple accounts in the launcher and switch between them before playing. Sound effects and ambient audio can be adjusted in the settings menu.
+<details>
+<summary><b>Which download should I pick?</b></summary>
 
-## Credits
+- **Sky-Cozy-Launcher.exe** — the launcher itself.
+- **Sky-Cozy-Third-Party.zip** — credits, licenses, and SSL Patch source code.
+- **SHA256SUMS.txt** — checksums for verifying the downloads.
 
-This is an independent fan project, not affiliated with thatgamecompany.
+</details>
 
-Third-party credits, licenses, and SSL Patch source code are available in **Sky-Cozy-Third-Party.zip**, attached to the release.
+<p align="center"><img src="images/divider.svg" width="960" alt="" /></p>
 
-The launcher is still experimental. Thanks for trying it out!
+## Credits & thank-yous
+
+An independent fan project, not affiliated with thatgamecompany. Third-party credits,
+licenses, and SSL Patch source code are included with each release.
+
+Still growing, still experimental. Thank you for being part of this little world.
+
+<p align="center"><i>Made cozy by Bea. See you beneath the willow.</i></p>
