@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="images/launcher-header-open.svg" width="960" alt="Sky Cozy Launcher — A little corner of Sky, made cozy." />
+  <img src="images/server-header.svg" width="960" alt="Sky Cozy — A private Sky server by Bea." />
 </p>
 
 <p align="center">
 <a href="https://github.com/beacafe/sky-cozy-launcher/releases"><img src="images/button-download.svg" width="180" alt="Download" /></a>
 <a href="#your-first-visit"><img src="images/button-start.svg" width="180" alt="Getting started" /></a>
-<a href="#little-details"><img src="images/button-features.svg" width="180" alt="Features" /></a>
+<a href="#about-the-server"><img src="images/button-server.svg" width="180" alt="The server" /></a>
 <a href="#credits--thank-yous"><img src="images/button-credits.svg" width="180" alt="Credits" /></a>
 </p>
 
@@ -14,25 +14,27 @@
 </p>
 
 <div align="center">
-<h3 align="center">Welcome to our little clearing</h3>
-<p>I put this launcher together to make joining our world feel a little more special. A quiet night, a few candles, and a place for us to play together.</p>
-<p>White hair in the wind, a boat on the stream, and the forest keeping us company. These are the little details I wanted to bring with us, even before the game begins.</p>
-<p>I hope you feel at home here.</p>
+<h3>Sky Cozy — my private Sky server</h3>
+<p>I'm Bea, and I'm developing a private server for Sky: Children of the Light.</p>
+<p><b>Currently in development · Invite-only access</b></p>
+<p>I plan to open the server to more people in the future. For now, access is by invitation while I keep building and testing it.</p>
+<p>This repository is where I share the launcher used to connect to Sky Cozy. The server is the project; the launcher is how you join us.</p>
 <p><em>— Bea</em></p>
-<br />
-<p><b>Windows · Local accounts · LAN &amp; Tailscale</b></p>
-<p><a href="https://github.com/beacafe/sky-cozy-launcher/releases"><img src="images/button-download.svg" width="220" alt="Download Sky Cozy Launcher" /></a></p>
 </div>
 
 <p align="center"><img src="images/divider.svg" width="960" alt="" /></p>
 
-## Little details
+## About the server
 
-| Under the willow | Ready for an adventure |
-| :--- | :--- |
-| **A living illustration** — wind in the leaves, flickering candles, and water around a little paper boat. | **One-step preparation** — create a separate game copy with the required patch. |
-| **A forest at night** — wind, chimes, crickets, an occasional owl, and a quiet stream. | **Your own characters** — pick a username, keep multiple accounts, and choose who to play before entering. |
-| **Warm little touches** — wooden button sounds, soft motion, and golden details. | **Near or far** — connect over LAN or Tailscale using your server address. |
+Sky Cozy is my ongoing private-server project, built on XYSky. I'm working on the
+server's account system, character progression, events, and tools for running it.
+
+The server is **invite-only for now**. I intend to open it to the public later;
+there is no public opening date yet. Downloading the launcher does not grant an invitation.
+
+## Already invited?
+
+The launcher below is for joining **Sky Cozy**, not a standalone server or a general-purpose Sky tool.
 
 ## Your first visit
 
@@ -43,7 +45,7 @@
 
 The launcher opens in English by default. Choose **Settings → Language → Português** to switch to Portuguese; your preference is remembered.
 
-The little gear opens settings for button sounds and forest ambience. You can switch between saved accounts before playing.
+You can switch between saved accounts before playing.
 
 <details>
 <summary><b>Which download should I pick?</b></summary>
@@ -61,6 +63,6 @@ The little gear opens settings for button sounds and forest ambience. You can sw
 An independent fan project, not affiliated with thatgamecompany. Third-party credits,
 licenses, and SSL Patch source code are included with each release.
 
-Still growing, still experimental. Thank you for being part of this little world.
+Sky Cozy is still in development. Thank you for following the project.
 
-<p align="center"><i>Made cozy by Bea. See you beneath the willow.</i></p>
+<p align="center"><i>Sky Cozy · A private Sky server by Bea.</i></p>
