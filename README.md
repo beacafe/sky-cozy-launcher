@@ -14,11 +14,11 @@
 </p>
 
 <div align="center">
-<h3>Sky Cozy — my private Sky server</h3>
-<p>I'm Bea, and I'm developing a private server for Sky: Children of the Light.</p>
+<h3>A little Sky to share with friends</h3>
+<p>Hi, I'm Bea! Sky Cozy is my little private server for Sky: Children of the Light, built with care on XYSky.</p>
 <p><b>Currently in development · Invite-only access</b></p>
-<p>I plan to open the server to more people in the future. For now, access is by invitation while I keep building and testing it.</p>
-<p>This repository is where I share the launcher used to connect to Sky Cozy. The server is the project; the launcher is how you join us.</p>
+<p>A place for friends to explore, make memories, and enjoy the journey together. Access is by invitation while I keep tending to our little world.</p>
+<p>Here you can find the launcher we use to join Sky Cozy. If you already have an invitation, your next adventure starts below.</p>
 <p><em>— Bea</em></p>
 </div>
 
@@ -29,12 +29,11 @@
 Sky Cozy is my ongoing private-server project, built on XYSky. I'm working on the
 server's account system, character progression, events, and tools for running it.
 
-The server is **invite-only for now**. I intend to open it to the public later;
-there is no public opening date yet. Downloading the launcher does not grant an invitation.
+Sky Cozy is **invite-only**. The launcher is here for invited friends to join our server.
 
 ## Already invited?
 
-The launcher below is for joining **Sky Cozy**, not a standalone server or a general-purpose Sky tool.
+Welcome in! Use the steps below to join **Sky Cozy**.
 
 ## Your first visit
 
